@@ -47,5 +47,5 @@ Resizes the output canvas to (width, height) with device pixel ratio taken into 
 This is automatically created by the renderer in the constructor (if not provided already); you just need to add it to your page like so:
 
 ```
-document.body.appendChild( renderer.domElement );
+document.body.appendChild(renderer.domElement);
 ```
