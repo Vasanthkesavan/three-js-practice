@@ -26,3 +26,7 @@ far — Camera frustum far plane.
 
 ```
 [Documentation of Camera from three.js](https://threejs.org/docs/#api/cameras/PerspectiveCamera)
+
+## Renderer
+
+
